@@ -656,3 +656,4 @@ if(str===toPolindrom){
 else{
     console.log('Polindrom emas');
 }
+console.log(Math.sqrt(245));
